@@ -1,2 +1,3 @@
 # simple_spider4baidu_pic
 simple_usefull_spider4pic_baidu
+只是代码学习交流，千万不要误入歧途
